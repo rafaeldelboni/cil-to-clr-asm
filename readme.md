@@ -1,4 +1,4 @@
-# Compiling directly ILASM Code POC
+# Compiling directly CIL to CLR Code POC
 POC to create binaries direcly using [Intermediate Language (IL) or Common Intermediate Language (CIL) or Microsoft Intermediate Language (MSIL)](https://ecma-international.org/publications-and-standards/standards/ecma-335/)
 to run on the [Common Language Runtime (CLR)](https://learn.microsoft.com/en-us/dotnet/standard/clr).  
 
@@ -56,8 +56,8 @@ Programme is finished...
 ```
 
 # References
-https://apisuckage.wordpress.com/2010/01/04/learning-il-hello-world-in-cil/
-https://community.ibm.com/community/user/powerdeveloper/blogs/vikas-gupta/2023/02/22/debugging-with-ilasm-and-ildasm
-https://www.codeproject.com/Articles/3778/Introduction-to-IL-Assembly-Language
-https://natemcmaster.com/blog/2017/12/21/netcore-primitives/
+https://apisuckage.wordpress.com/2010/01/04/learning-il-hello-world-in-cil  
+https://community.ibm.com/community/user/powerdeveloper/blogs/vikas-gupta/2023/02/22/debugging-with-ilasm-and-ildasm  
+https://www.codeproject.com/Articles/3778/Introduction-to-IL-Assembly-Language  
+https://natemcmaster.com/blog/2017/12/21/netcore-primitives  
 https://ecma-international.org/wp-content/uploads/ECMA-335_6th_edition_june_2012.pdf
